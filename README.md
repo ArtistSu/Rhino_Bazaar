@@ -1,5 +1,5 @@
 # HL Architecture Diagram
-![HL Architecture Diagram](./Rhino_Bazaar.drawio.png)
+![HL Architecture Diagram](./HL_Design.png)
 
 # Technology Selection
 | Tech               | Version |
